@@ -1,2 +1,2 @@
 # stockms
-A repository to create a stock management system
+A repository to chumvi stock management system, a fictional retail company.
